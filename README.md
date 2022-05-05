@@ -9,3 +9,14 @@ Backend should have CRUD functions for metadata.
 No authentication needed.
 
 Please fork this repo and send forked repo url once it's done.
+
+
+# How to
+ npm start                 (run service)
+
+ npm run make:migration  --name metadata
+
+ npm run migrate            (run migration)
+
+ npm run test               (run test)
+
